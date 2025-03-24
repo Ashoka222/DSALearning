@@ -27,7 +27,7 @@ This repository contains implementations of various data structures and algorith
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/DSALearning.git
+git clone https://github.com/Ashoka222/DSALearning.git
 ```
 
 2. Open `index.html` in your web browser to see the interactive output.
@@ -58,6 +58,14 @@ DSALearning/
     └── downwardTrianglePattern.js
 ```
 
+## Features
+
+- Interactive web interface for all implementations
+- Clear separation of different data structures
+- Visual output for pattern problems
+- Detailed comments and documentation
+- Easy to understand and modify code
+
 ## Contributing
 
 Feel free to contribute to this project by:
@@ -68,6 +76,10 @@ Feel free to contribute to this project by:
 4. Pushing to the branch
 5. Creating a new Pull Request
 
+## Author
+
+- GitHub: [Ashoka222](https://github.com/Ashoka222)
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
